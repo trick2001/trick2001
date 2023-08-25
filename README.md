@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trick2001
+- 👋 Hi, I’m @trick20
 - 👀 I’m interested in Web Development (Front End & Back End Development)
 - 🌱 I’m currently learning Javascript
 <!---
